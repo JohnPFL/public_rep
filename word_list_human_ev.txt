@@ -1,98 +1,97 @@
 cl_word,spel_var,Category
-bring,brin,g-dropping
-during,durin,g-dropping
-evening,evenin,g-dropping
-really,realy,double letter reduction
-little,litle,double letter reduction
-actually,actualy,double letter reduction
-better,beter,double letter reduction
-getting,geting,double letter reduction
-different,diferent,double letter reduction
-sorry,sory,double letter reduction
-hello,helo,double letter reduction
-called,caled,double letter reduction
-happy,hapy,double letter reduction
-pretty,prety,double letter reduction
-happened,hapened,double letter reduction
-difficult,dificult,double letter reduction
-million,milion,double letter reduction
-correct,corect,double letter reduction
-brilliant,briliant,double letter reduction
-happen,hapen,double letter reduction
-support,suport,double letter reduction
-running,runing,double letter reduction
-tomorrow,tomorow,double letter reduction
-matter,mater,double letter reduction
-gonna,gona,double letter reduction
-middle,midle,double letter reduction
-pressure,presure,double letter reduction
-programme,programe,double letter reduction
-possible,posible,double letter reduction
-challenge,chalenge,double letter reduction
-issue,isue,double letter reduction
-worry,wory,double letter reduction
-biggest,bigest,double letter reduction
-finally,finaly,double letter reduction
-office,ofice,double letter reduction
-happens,hapens,double letter reduction
-scottish,scotish,double letter reduction
-putting,puting,double letter reduction
-community,comunity,double letter reduction
-hopefully,hopefuly,double letter reduction
-difference,diference,double letter reduction
-opportunity,oportunity,double letter reduction
-funny,funy,double letter reduction
-bottom,botom,double letter reduction
-happening,hapening,double letter reduction
-massive,masive,double letter reduction
-bigger,biger,double letter reduction
-suppose,supose,double letter reduction
-worried,woried,double letter reduction
-especially,especialy,double letter reduction
-killed,kiled,double letter reduction
-basically,basicaly,double letter reduction
-selling,seling,double letter reduction
-summer,sumer,double letter reduction
-married,maried,double letter reduction
-anything,anyting,th stopping
-months,monts,th stopping
-south,sout,th stopping
-north,nort,th stopping
-within,witin,th stopping
-third,tird,th stopping
-month,mont,th stopping
-think,fink,th for f
-through,frough,th for f
-both,bof,th for f
-months,monfs,th for f
-south,souf,th for f
-north,norf,th for f
-worth,worf,th for f
-worth,worf,th for f
-third,fird,th for f
-month,monf,th for f
-the,de,th for d
-their,deir,th for d
-other,oder,th for d
-rather,rader,th for d
-mother,moder,th for d
-further,furder,th for d
-weather,weader,th for d
-brother,broder,th for d
-looks,loox,x for ks
-weeks,weex,x for ks
-works,worx,x for ks
-auction,oction,au to o
-auction,uction,au to u
-look,luk,oo to u
-looks,luks,oo to u
-took,tuk,oo to u
-looked,luked,oo to u
-book,buk,oo to u
-football,futball,oo to u
-cook,cuk,oo to u
-these,thez,final z
-use,uz,final z
-close,cloz,final z
-lose,loz,final z
-size,siz,final z
+going,goin,g-dropping
+something,somethin,g-dropping
+being,bein,g-dropping
+doing,doin,g-dropping
+looking,lookin,g-dropping
+coming,comin,g-dropping
+getting,gettin,g-dropping
+anything,anythin,g-dropping
+everything,everythin,g-dropping
+nothing,nothin,g-dropping
+having,havin,g-dropping
+trying,tryin,g-dropping
+making,makin,g-dropping
+saying,sayin,g-dropping
+working,workin,g-dropping
+morning,mornin,g-dropping
+talking,talkin,g-dropping
+taking,takin,g-dropping
+playing,playin,g-dropping
+thinking,thinkin,g-dropping
+amazing,amazin,g-dropping
+living,livin,g-dropping
+feeling,feelin,g-dropping
+interesting,interestin,g-dropping
+running,runnin,g-dropping
+building,buildin,g-dropping
+using,usin,g-dropping
+waiting,waitin,g-dropping
+moving,movin,g-dropping
+seeing,seein,g-dropping
+watching,watchin,g-dropping
+giving,givin,g-dropping
+putting,puttin,g-dropping
+hoping,hopin,g-dropping
+happening,happenin,g-dropping
+starting,startin,g-dropping
+meeting,meetin,g-dropping
+sitting,sittin,g-dropping
+selling,sellin,g-dropping
+spending,spendin,g-dropping
+think,tink,th stopping
+something,someting,th stopping
+thought,tought,th stopping
+everything,everyting,th stopping
+without,witout,th stopping
+thinking,tinking,th stopping
+death,deat,th stopping
+health,healt,th stopping
+although,altough,th stopping
+thousands,tousands,th stopping
+with,wif,th for f
+something,somefing,th for f
+thank,fank,th for f
+anything,anyfing,th for f
+everything,everyfing,th for f
+nothing,nofing,th for f
+without,wifout,th for f
+thinking,finking,th for f
+health,healf,th for f
+although,alfough,th for f
+thousands,fousands,th for f
+that,dat,th for d
+this,dis,th for d
+they,dey,th for d
+there,dere,th for d
+these,dese,th for d
+another,anoder,th for d
+together,togeder,th for d
+whether,wheder,th for d
+father,fader,th for d
+themselves,demselves,th for d
+others,oders,th for d
+northern,nordern,th for d
+thanks,thanx,x for ks
+because,becose,"au to o (""other"" category?)"
+paul,pol,au to o 
+because,becuse,"au to u  (""other"" category?)"
+paul,pul,au to u
+good,gud,"oo to u (""other"" category?)"
+looking,luking,"oo to u (""other"" category?)"
+because,becauz,final z
+those,thoz,final z
+please,pleaz,final z
+suppose,suppoz,final z
+and,n,homophone (encountered on Twitter)
+you,u,homophone (encountered on Twitter)
+to,2,homophone (encountered on Twitter)
+too,2,homophone (encountered on Twitter)
+are,r,homophone (encountered on Twitter)
+see,c,homophone (encountered on Twitter)
+later,l8r,homophone (encountered on Twitter)
+great,gr8,homophone (encountered on Twitter)
+be,b,homophone (encountered on Twitter)
+please,plz,homophone (encountered on Twitter)
+thanks,thx,homophone (encountered on Twitter)
+night,nite,homophone (encountered on Twitter)
