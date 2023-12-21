@@ -33,8 +33,8 @@ class WordCounter:
         data_a = self._read_dataset(self.dataset_a_path)[1:]  # Skip the header line
         for line in data_a:
             parts_a = line.split(',')
-            word_a = self._preprocess_word(parts_a[1])
-            word_b = self._preprocess_word(parts_a[0])
+            word_a = self._preprocess_word(parts_a[0])
+            word_b = self._preprocess_word(parts_a[1])
             category = self._preprocess_word(parts_a[2])
             count_a = self.counts_b.get(word_a, 0)
             count_b = self.counts_b.get(word_b, 0)
