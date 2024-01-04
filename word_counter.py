@@ -56,6 +56,6 @@ class WordCounter:
 
 
 # Example usage:
-custom_output_path = 'custom_output_result.txt'
+custom_output_path = 'reddit_custom_output_result.txt'
 word_counter = WordCounter('word_list_human_ev.txt', '/hpc/uu_cs_nlpsoc/data/coling2020_nguyen_grieve/data/reddit/reddit_processed_2018_05_10_vocab_count.txt', custom_output_path)
 word_counter.process_datasets()
